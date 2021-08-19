@@ -1,1 +1,1 @@
-# Html-css-and-bootstrap-solution-of-order-summary
+# Html-css-and-bootstrap solution of order summary
